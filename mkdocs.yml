@@ -1,11 +1,11 @@
-site_name: E34M1
-site_description: Documentation for the EVA3 for Mercury One mod.
-site_author: Jon Harper
+site_name: Evantis 2.0
+site_description: Documentation for the Evantis 2.0 toolhead for Mercury One mod.
+site_author: Sir Wash
 site_url: https://jon-harper.github.io/E34M1
 repo_url: https://github.com/jon-harper/E34M1
-repo_name: "GitHub: jon-harper/E34M1"
+repo_name: "GitHub: Sir-Wash/Evantis_V2_Toolhead"
 edit_uri: ""
-copyright: Copyright &copy; 2023 Jonathan Harper
+copyright: Copyright &copy; 2023 Sir_Wash
 
 markdown_extensions:
   - admonition
@@ -67,11 +67,11 @@ theme:
 extra:
   social:
     - icon: simple/kofi
-      link: https://ko-fi.com/jonspaceharper
-      name: "Support E34M1 using Ko-Fi!"
+      link: https://ko-fi.com/sir_wash
+      name: "Support my projects using Ko-Fi!"
     - icon: material/home
       link: https://jon-harper.github.io/
-      name: "jonspaceharper's Homepage"
+      name: "https://github.com/Sir-Wash"
 
 extra_css:
   - assets/stylesheets/extra.css
